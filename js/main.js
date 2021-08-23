@@ -104,7 +104,7 @@ $('#yes').click(function() {
         width: 900,
         padding: '3em',
         html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Đìu anh luôn giữ kín trong tym?'>",
-        background: '#fff url("img/iput-bg.jpg")',
+        background: '#fff url("img/FDCD086D-07F4-4ECC-8574-07BACD227D6A.jpeg")',
         backdrop: `
               rgba(0,0,123,0.4)
               url("img/FA16E6F7-12F5-493C-AA8C-D579D48E9DE5.gif")
@@ -119,7 +119,7 @@ $('#yes').click(function() {
             Swal.fire({
                 width: 900,
                 confirmButtonText: CONFIG.btnAccept,
-                background: '#fff url("img/iput-bg.jpg")',
+                background: '#fff url("img/FDCD086D-07F4-4ECC-8574-07BACD227D6A.jpeg")',
                 title: CONFIG.mess,
                 text: CONFIG.messDesc,
                 confirmButtonColor: '#83d0c9',

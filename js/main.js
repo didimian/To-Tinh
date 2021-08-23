@@ -96,7 +96,7 @@ function textGenerate() {
 
 // show popup
 $('#yes').click(function() {
-    var audio = new Audio('sound/tick.mp3');
+    var audio = new Audio('sound/lyrics_anh_danh_roi_nguoi_yeu_nay_va_the_la_e_da_biet_nho_thuong_751677857931854176%20(mp3cut.net).mp3');
     audio.play();
     Swal.fire({
         title: CONFIG.question,

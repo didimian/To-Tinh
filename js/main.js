@@ -25,7 +25,7 @@ function firstQuestion(){
         imageUrl: 'img/logi.gif',
         imageWidth: 300,
         imageHeight: 300,
-        background: '#fff url("img/FA16E6F7-12F5-493C-AA8C-D579D48E9DE5.gif")',
+        background: '#fff url("img/FDCD086D-07F4-4ECC-8574-07BACD227D6A.jpeg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
       }).then(function(){
@@ -107,7 +107,7 @@ $('#yes').click(function() {
         background: '#fff url("img/iput-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
-              url("img/giphy2.gif")
+              url("img/FA16E6F7-12F5-493C-AA8C-D579D48E9DE5.gif")
               left top
               no-repeat
             `,

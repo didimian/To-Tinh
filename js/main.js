@@ -25,7 +25,7 @@ function firstQuestion(){
         imageUrl: 'img/logi.gif',
         imageWidth: 300,
         imageHeight: 300,
-        background: '#fff url("img/iput-bg.jpg")',
+        background: '#fff url("img/FA16E6F7-12F5-493C-AA8C-D579D48E9DE5.gif")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
       }).then(function(){

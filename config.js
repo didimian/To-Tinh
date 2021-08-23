@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Xin chào bạn iu!',
     introDesc: `Sẵn sàng bước sang tuổi 20 chưa? 🥳`,
     btnIntro: 'Rùiii‼️',
-    title: 'Chúc anh sinh nhật tuổi 20 tuyệt zờii 🎂❤️',
+    title: 'Chúc anh sinh nhật tuổi 20 tuyệt zời 🎂❤️',
     desc: 'Tuổi mới luôn vui vẻ, hạnh phúc, mạnh khoẻ, thành công và yêu em hơn 10000000 lần nữa 🥰',
     btnYes: 'Vâng ạ 😍',
     btnNo: 'Khum 🥺',

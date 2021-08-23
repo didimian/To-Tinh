@@ -25,7 +25,7 @@ function firstQuestion(){
         imageUrl: 'img/FA16E6F7-12F5-493C-AA8C-D579D48E9DE5.gif',
         imageWidth: 300,
         imageHeight: 300,
-        background: '#fff url("img/93271225-E3C6-43E1-98E9-910220094CB1.jpeg")',
+        background: '#fff url("img/3EADA03A-DFB4-401B-AA8D-04F11545D98D.jpeg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
       }).then(function(){
@@ -104,7 +104,7 @@ $('#yes').click(function() {
         width: 900,
         padding: '3em',
         html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Nhập sai là giận 🙂'>",
-        background: '#fff url("img/FDCD086D-07F4-4ECC-8574-07BACD227D6A.jpeg")',
+        background: '#fff url("img/93271225-E3C6-43E1-98E9-910220094CB1.jpeg")',
         confirmButtonColor: '#3085d6',
         confirmButtonColor: '#fe8a71',
         confirmButtonText: CONFIG.btnReply

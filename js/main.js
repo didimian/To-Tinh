@@ -46,9 +46,9 @@ function firstQuestion(){
     $('#yes').css("left", leftNo);
     $('#yes').css("top", topNO);
 }
-// move random button póition
+// move random button position
 function moveButton() {
-    var audio = new Audio('sound/Swish1.mp3');
+    var audio = new Audio('sound/lyrics_anh_danh_roi_nguoi_yeu_nay_va_the_la_e_da_biet_nho_thuong_751677857931854176%20(mp3cut.net).mp3');
     audio.play();
     var x = Math.random() * ($(window).width() - $('#no').width()) * 0.9 ;
     var y = Math.random() * ($(window).height() - $('#no').height()) * 0.9;

@@ -22,7 +22,7 @@ function firstQuestion(){
     Swal.fire({
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
-        imageUrl: 'img/logi.gif',
+        imageUrl: 'img/FA16E6F7-12F5-493C-AA8C-D579D48E9DE5.gif',
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("img/FDCD086D-07F4-4ECC-8574-07BACD227D6A.jpeg")',
@@ -107,7 +107,7 @@ $('#yes').click(function() {
         background: '#fff url("img/FDCD086D-07F4-4ECC-8574-07BACD227D6A.jpeg")',
         backdrop: `
               rgba(0,0,123,0.4)
-              url("img/FA16E6F7-12F5-493C-AA8C-D579D48E9DE5.gif")
+              url("img/giphy2.gif")
               left top
               no-repeat
             `,

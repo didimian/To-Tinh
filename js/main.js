@@ -25,7 +25,7 @@ function firstQuestion(){
         imageUrl: 'img/FA16E6F7-12F5-493C-AA8C-D579D48E9DE5.gif',
         imageWidth: 300,
         imageHeight: 300,
-        background: '#fff url("img/AFE05F70-1D9F-4E1A-B720-DD4A42E823AD.jpeg")',
+        background: '#fff url("img/93271225-E3C6-43E1-98E9-910220094CB1.jpeg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
       }).then(function(){

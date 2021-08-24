@@ -3,9 +3,7 @@ const CONFIG = {
     introDesc: `Sẵn sàng bước sang tuổi 20 chưa? 🥳`,
     btnIntro: 'Rùiii‼️',
     title: 'Chúc anh sinh nhật tuổi 20 tuyệt zời 🎂❤️',
-    desc: 'Tuổi mới luôn vui vẻ 🤩, hạnh phúc 😘, mạnh khoẻ 💪
-Bớt "may mắn" 🥲 
-Và yêu em hơn 10000000 lần nữa 🥰',
+    desc: 'Tuổi mới luôn vui vẻ 🤩, hạnh phúc 😘, mạnh khoẻ 💪 Bớt "may mắn" 🥲 Và yêu em hơn 10000000 lần nữa 🥰',
     btnYes: 'Vâng ạ 😍',
     btnNo: 'Khum 🥺',
     question:'Nhập mật khẩu của chúng mình để 🔓',

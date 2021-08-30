@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Tuổi 20 và sau này mãi vui vẻ và hạnh phúc nha 🙆🏻‍♀️💝💗💓',
     messDesc: 'Yêu anh 💖❤️🧡💛💚💙💜🤎💝',
     btnAccept: '🙆🏽‍♂️🙆🏽‍♂️',
-    messLink: 'https://drive.google.com/file/d/14K4Yn1Esi-wgloAdo0mB9S27BQTc9uiA/view?usp=drivesdk' 
+    messLink: 'https://drive.google.com/file/d/1epJAwG6-hgQOaIUg4eMtk_FaucUNB06V/view?usp=drivesdk' 
 }
